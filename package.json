@@ -1,0 +1,19 @@
+{
+  "name": "backend-taller",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "taller",
+    "backend",
+    "nodejs",
+    "postgresql",
+    "express"
+  ],
+  "license": "MIT",
+  "author": "Ricardo Ortiz",
+  "type": "module",
+  "main": "dist/server.js",
+  "scripts": {
+    "test": "vitest"
+  }
+}
